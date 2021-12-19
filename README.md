@@ -33,9 +33,9 @@ The project involved below steps:
 
 * Loading and cleaning a small subset of .csv raw data provided.
 
-* Conducting Data Wragling, Analysis and visualizations to understand the data and what features are useful for property trend analysis.
+* Conducting Data Wrangling, Analysis and Visualizations to understand the data and what features are useful for property trend analysis.
 
-* Modelling using sklearn library while using Linear Regression algorithm to predict the rental pricing and impact from some features. 
+* Modelling using sklearn library while using Linear Regression algorithm to predict the rental pricing impacted by some features. 
   
 ### File Descriptions
 
