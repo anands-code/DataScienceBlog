@@ -1,4 +1,4 @@
-# Data Science Blog-project
+# Data Science Blog
 
 ## Airbnb Seattle Project, Udacity Data Scientist Nanodegree
 
