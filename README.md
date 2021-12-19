@@ -44,9 +44,7 @@ Markdown cells were used throughout to explain the process taken.
 
 ### Medium Blog Post
 
-The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@anand-blog/datascientist-blog-project-10c2d66d9056)  
-[here](https://medium.com/@anand-blog/data-science-blog-1ead4fd41e5)
-explaining the technical details of my project. A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88.
+The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@anand-blog/data-science-blog-1ead4fd41e5) explaining the technical details of my project. Besides basic data modelling, analysis and visualizations, Linear Regression  was used to find the pricing impact over location of the listings.
 
 ### Licensing, Authors, Acknowledgements, etc.
 Being an author for this project, I'd like to acknowledge Udacity for the project idea.
